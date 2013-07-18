@@ -1,0 +1,13 @@
+{
+  "name": "Font-Awesome",
+  "version": "4.0.0-wip",
+  "main": "./less/font-awesome.less",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
